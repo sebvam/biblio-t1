@@ -72,7 +72,7 @@ pre {
       <ul class="nav navbar-nav ">
         <li><a href="index.php"><!--<span class="glyphicon glyphicon-home"></span>-->
       <img src="mi_logo.png" alt="Logo" style="height: 40px; margin-top: -4px;">
-      Brisa
+		Sebastian
       </a></li>
 		<li><a href="cartelera.php">Cartelera</a></li>
 		<li><a href="abm_ld.php">Libros</a></li>
@@ -158,3 +158,4 @@ pre {
 </div>
  
 </body>
+
